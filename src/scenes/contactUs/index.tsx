@@ -46,9 +46,9 @@ const ContactUs = ({ setSelectedPage }: Props) => {
             <span className="text-primary-500">JOIN NOW</span> TO GET IN SHAPE
           </HText>
           <p className="my-5">
-            Congue adipiscing risus commodo placerat. Tellus et in feugiat nisl
-            sapien vel rhoncus. Placerat at in enim pellentesque. Nulla
-            adipiscing leo egestas nisi elit risus sit. Nunc cursus sagittis.
+            Whether you have inquiries about memberships, class schedules,
+            or simply want to share your fitness journey, we're here for you.
+            Drop us a message, and let's shape a healthier, happier lifestyle together.
           </p>
         </motion.div>
 
@@ -68,7 +68,7 @@ const ContactUs = ({ setSelectedPage }: Props) => {
             <form
               target="_blank"
               onSubmit={onSubmit}
-              action="https://formsubmit.co/e8a5bdfa807605332f809e5656e27c6e"
+              action="https://formsubmit.co/057b81a86d6c58e41fa2d7c019f68bf4"
               method="POST"
             >
               <input
